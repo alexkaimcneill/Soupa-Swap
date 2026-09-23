@@ -1,10 +1,12 @@
 # Soupa-Swap
-A custom-built retro gaming machine.
+
 ![Alt text](https://github.com/alexkaimcneill/Soupa-Swap/blob/main/zinepng.png?raw=true)
 
 ## What is this?
 
-This project is a fully custom gaming console, It uses a Raspberry Pi 3B+, a 7" IPS touch display, keyboard, Li-ion batteries, and a modular frame system to create a compact but capable retro gaming device.
+This project is a fully custom gaming console, It uses a Raspberry Pi 3B+, a 7" IPS touch display, keyboard, Li-ion batteries, and a modular frame system to create a compact but capable retro gaming devic running custom built firmware and games.
+
+https://studio.youtube.com/video/maCXcE5bfww/edit
 
 
 ## What makes this project unique
