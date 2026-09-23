@@ -1,6 +1,6 @@
 # Soupa-Swap
 A custom-built retro gaming machine.
-![Drill, Baby, Drill Zine](https://github-production-user-asset-6210df.s3.amazonaws.com/277169270/602529775-d3af20bb-c887-4368-bd10-3056c63f5311.png)
+![Alt text](https://github.com/alexkaimcneill/Soupa-Swap/blob/main/zinepng.png?raw=true)
 
 ## What is this?
 
