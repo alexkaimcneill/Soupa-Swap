@@ -6,7 +6,7 @@
 
 This project is a fully custom gaming console, It uses a Raspberry Pi 3B+, a 7" IPS touch display, keyboard, Li-ion batteries, and a modular frame system to create a compact but capable retro gaming devic running custom built firmware and games.
 
-https://studio.youtube.com/video/maCXcE5bfww/edit
+https://www.youtube.com/watch?v=maCXcE5bfww
 
 
 ## What makes this project unique
